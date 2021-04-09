@@ -24,12 +24,13 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 ## Project Hierarchy:
 
 **Repositary [/ABB-RobotStudo-Tutorial-SortingMachine/]:**
+
 ```bash
-[ UI + Main Control           ] /Script/UI/
-[ Data Processing             ] /Script/ABB/
-[ Individual objects (.blend) ] /Object/Blender/
-[ Images (UI)                 ] /Image/
-[ Scene of the Application    ] /Scenes/
+[ Main Program (.rspag)                ] /Final/
+[ Project Template (without a robot)   ] /Template/ 
+[ Example of the resulting application ] /Exe_file/
+[ Rapid codes (.mod) - Right/Left Arm  ] /Rapid/
+[ Scene parts, gripper, etc.           ] /Project_Materials/
 ```
 
 ## Application:
