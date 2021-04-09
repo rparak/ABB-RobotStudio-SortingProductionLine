@@ -16,6 +16,18 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 ## Project Description:
 
+The project focuses on controlling multiple robots using the simulation tool RobotStudio ABB. The robot on Table No.1 will communicate with another robot on Table No.2 using a conveyor belt. The main goal of the project will be to create a sorting production line.
+
+Main challenges of project implementation:
+- object manipulation using an smart gripper (ABB), simple vacuum gripper
+- data communication between the multiple robotic arms
+- conveyor belt control
+- clean rapid program using functions, structures, etc.
+
+The project was created to improve the [VRM (Programming for Robots and Manipulators)](https://github.com/rparak/Programming-for-robots-and-manipulators-VRM) university course.
+
+The project was realized at Institute of Automation and Computer Science, Brno University of Technology, Faculty of Mechanical Engineering (NETME Centre - Cybernetics and Robotics Division).
+
 <p align="center">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/1_1.PNG" width="800" height="450">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/1_2.PNG" width="800" height="450">
