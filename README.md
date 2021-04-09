@@ -16,7 +16,7 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 ## Project Description:
 
-The project focuses on controlling multiple robots using the simulation tool RobotStudio ABB. The robot on Table No. 1 will communicate with another robot on Table No. 2 using a conveyor belt. The main goal of the project will be to create a sorting production line.
+The project focuses on controlling multiple robots using the simulation tool RobotStudio ABB. Robot on table no. 1 communicates with another robot on table no. 2 using a conveyor belt. The main goal of the project is to create a simple sorting production line.
 
 Main challenges of project implementation:
 - object manipulation using an smart gripper (ABB), simple vacuum gripper
