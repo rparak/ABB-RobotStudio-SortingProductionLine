@@ -13,7 +13,7 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 
 ## Project Hierarchy:
 
-**Repositary [/Unity3D_Robotics_ABB/ABB_Unity_App/Assets/]:**
+**Repositary [/ABB-RobotStudo-Tutorial-SortingMachine/]:**
 ```bash
 [ UI + Main Control           ] /Script/UI/
 [ Data Processing             ] /Script/ABB/
