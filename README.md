@@ -1,4 +1,4 @@
-# ABB RobotStudio Tutorial - Sorting Machine
+# ABB RobotStudio - Sorting Machine
 
 ## Requirements:
 
