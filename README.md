@@ -64,7 +64,7 @@ The project was realized at Institute of Automation and Computer Science, Brno U
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/2_4.png" width="400" height="225">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/2_5.png" width="400" height="225">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/2_6.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/2_7.png" width="400" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/2_7.png" width="800" height="450">
 </p>
 
 ## Result:
