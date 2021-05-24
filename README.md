@@ -48,11 +48,19 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 **Repositary [/ABB-RobotStudo-Tutorial-SortingMachine/]:**
 
 ```bash
-[ Main Program (.rspag)                ] /Final/
-[ Project Template (without a robot)   ] /Template/ 
-[ Example of the resulting application ] /Exe_file/
-[ Rapid codes (.mod) - Right/Left Arm  ] /Rapid/
-[ Scene parts, gripper, etc.           ] /Project_Materials/
+[ Project Template (without a robot) ] /Template/
+
+/IRB_1200/ -> ABB IRB 1200
+[ Main Program (.rspag)                             ] /IRB_1200/Final/
+[ Example of the resulting application              ] /IRB_1200/Exe_file/
+[ Rapid codes (.mod) - Controller1(Right/Left Arm)  ] /IRB_1200/Rapid/
+
+/Solution_CRB_15000_GoFa/ -> ABB CRB 15000 GoFa
+[ Main Program (.rspag)                ] /Solution_CRB_15000_GoFa/Final/
+[ Example of the resulting application ] /Solution_CRB_15000_GoFa/Exe_file/
+[ Rapid codes (.mod) - Controller1,2   ] /Solution_CRB_15000_GoFa/Rapid/
+
+[ Scene parts, gripper, etc. ] /Project_Materials/
 ```
 
 ## Application:
