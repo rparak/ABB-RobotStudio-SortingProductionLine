@@ -67,13 +67,13 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 
 **ABB CRB 15000 (GoFa):**
 <p align="center">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_1.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_2.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_3.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_4.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_5.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_6.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_7.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_1.png" width="380" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_2.png" width="380" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_3.png" width="380" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_4.png" width="380" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_5.png" width="380" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_6.png" width="380" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/3_7.png" width="760" height="450">
 </p>
 
 **ABB IRB 1200:**
