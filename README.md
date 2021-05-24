@@ -57,6 +57,9 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 
 ## Application:
 
+**ABB CRB 15000 (GoFa):**
+
+**ABB IRB 1200:**
 <p align="center">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/2_1.png" width="400" height="225">
   <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingMachine/blob/main/images/2_2.png" width="400" height="225">
