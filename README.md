@@ -38,14 +38,14 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 6. In the Ready to unpack page, review the information and then click Finish.
 
 <p align="center">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/1_1.PNG" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/1_2.PNG" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/1_3.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/1_1.PNG" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/1_2.PNG" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/1_3.png" width="800" height="450">
 </p>
 
 ## Project Hierarchy:
 
-**Repositary [/ABB-RobotStudo-Tutorial-SortingProductionLine/]:**
+**Repositary [/ABB-RobotStudo-SortingProductionLine/]:**
 
 ```bash
 [ Project Template (without a robot) ] /Template/
@@ -67,24 +67,24 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 
 **ABB CRB 15000 (GoFa):**
 <p align="center">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/3_1.png" width="400" height="250">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/3_2.png" width="400" height="250">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/3_3.png" width="400" height="250">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/3_4.png" width="400" height="250">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/3_5.png" width="400" height="250">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/3_6.png" width="400" height="250">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/3_7.png" width="805" height="500">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/3_1.png" width="400" height="250">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/3_2.png" width="400" height="250">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/3_3.png" width="400" height="250">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/3_4.png" width="400" height="250">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/3_5.png" width="400" height="250">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/3_6.png" width="400" height="250">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/3_7.png" width="805" height="500">
 </p>
 
 **ABB IRB 1200:**
 <p align="center">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/2_1.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/2_2.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/2_3.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/2_4.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/2_5.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/2_6.png" width="400" height="225">
-  <img src="https://github.com/rparak/ABB-RobotStudo-Tutorial-SortingProductionLine/blob/main/images/2_7.png" width="805" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/2_1.png" width="400" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/2_2.png" width="400" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/2_3.png" width="400" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/2_4.png" width="400" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/2_5.png" width="400" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/2_6.png" width="400" height="225">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/2_7.png" width="805" height="450">
 </p>
 
 ## Result:
