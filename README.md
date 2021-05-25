@@ -45,7 +45,7 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 
 ## Project Hierarchy:
 
-**Repositary [/ABB-RobotStudo-SortingProductionLine/]:**
+**Repositary [/ABB-RobotStudio-SortingProductionLine/]:**
 
 ```bash
 [ Project Template (without a robot) ] /Template/
