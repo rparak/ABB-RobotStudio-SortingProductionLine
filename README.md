@@ -1,4 +1,4 @@
-# ABB RobotStudio - Sorting Machine
+# ABB RobotStudio - A simple example of a sorting production line (GoFa CRB 15000, IRB 1200)
 
 ## Requirements:
 
