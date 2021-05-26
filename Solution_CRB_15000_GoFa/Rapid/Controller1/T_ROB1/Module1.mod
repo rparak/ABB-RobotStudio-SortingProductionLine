@@ -284,7 +284,4 @@ MODULE Module1
         MoveL Target_INIT_AP1,v400,fine,smc_gripper;
         MoveL Target_CONV_PR,v400,fine,smc_gripper;
     ENDPROC
-    PROC Path_10()
-
-    ENDPROC
 ENDMODULE
