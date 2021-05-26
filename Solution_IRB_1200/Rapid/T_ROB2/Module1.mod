@@ -83,6 +83,7 @@ MODULE Module1
                 r_str.actual_state := 5;
             CASE 5:
                 ! ******************** EMPTY STATE ******************** !
+		Stop;
         ENDTEST
     ENDPROC
     

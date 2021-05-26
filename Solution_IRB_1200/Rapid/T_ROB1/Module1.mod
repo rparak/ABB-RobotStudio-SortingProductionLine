@@ -125,6 +125,7 @@ MODULE Module1
                 ENDIF
             CASE 7:
                 ! ******************** EMPTY STATE ******************** !
+		Stop;
 
         ENDTEST
     ENDPROC
