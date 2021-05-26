@@ -39,8 +39,8 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 
 <p align="center">
   <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/1_1.PNG" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/1_3.PNG" width="800" height="450">
-  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/1_2.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/1_3.png" width="800" height="450">
+  <img src="https://github.com/rparak/ABB-RobotStudo-SortingProductionLine/blob/main/images/1_2.PNG" width="800" height="450">
 </p>
 
 ## Project Hierarchy:
