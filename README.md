@@ -9,7 +9,7 @@ ABB RobotStudio 2021.1.2 (64-bit)
 
 **RobotWare:**
 ```bash
-Version 6.12.01 (IRB 1200), Version 7.2.1 (ABB CRB 15000)
+Version 6.10.0 (IRB 1200), Version 7.2.1 (ABB CRB 15000)
 ```
 
 Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
@@ -19,7 +19,7 @@ Link ABB RS: https://new.abb.com/products/robotics/robotstudio/downloads
 The project focuses on controlling multiple robots using the simulation tool RobotStudio ABB. Robot on table no. 1 communicates with another robot on table no. 2 using a conveyor belt. The main goal of the project is to create a simple sorting production line.
 
 Main challenges of project implementation:
-- object manipulation using an smart gripper (ABB), simple vacuum gripper
+- object manipulation using a smart gripper (ABB), simple vacuum gripper
 - data communication between the multiple robotic arms
 - conveyor belt control
 - clean rapid program using functions, structures, etc.
@@ -45,7 +45,7 @@ The project was realized at Institute of Automation and Computer Science, Brno U
 
 ## Project Hierarchy:
 
-**Repositary [/ABB-RobotStudo-SortingProductionLine/]:**
+**Repositary [/ABB-RobotStudio-SortingProductionLine/]:**
 
 ```bash
 [ Project Template (without a robot) ] /Template/
